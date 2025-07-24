@@ -1,9 +1,13 @@
 Initial Commit
 1st Commit
 2nd Commit
+3rd Commit
+4th Commit
 firstBranch creation
 1 commit on firstBranch
 2 commit on firstBranch
+3 commit on firstBranch
 secondBranch creation
 1 commit on secondBranch
 2 commit on secondBranch
+
