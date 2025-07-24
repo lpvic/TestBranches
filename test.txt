@@ -6,3 +6,4 @@ firstBranch creation
 2 commit on firstBranch
 secondBranch creation
 1 commit on secondBranch
+2 commit on secondBranch
