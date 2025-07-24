@@ -11,3 +11,4 @@ firstBranch creation
 6th commit
 secondBranch creation
 1 commit on secondBranch
+2 commit on secondBranch
