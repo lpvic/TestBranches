@@ -5,3 +5,4 @@ firstBranch creation
 1 commit on firstBranch
 2 commit on firstBranch
 secondBranch creation
+1 commit on secondBranch
