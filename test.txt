@@ -10,3 +10,4 @@ firstBranch creation
 5th commit
 6th commit
 secondBranch creation
+1 commit on secondBranch
